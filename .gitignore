@@ -1,0 +1,63 @@
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Conda environment
+env/
+*.conda
+*.env
+*.venv
+*.virtualenv
+*.envrc
+.env
+
+# Ignore virtual environment directories
+venv/
+ENV/
+env.bak/
+*.env.bak/
+
+# Ignore VSCode specific settings
+.vscode/
+.history/
+
+# Ignore Jupyter Notebook output files
+*.ipynb-outputs
+*.ipynb-kernel
+
+# Ignore large data files (adjust as necessary)
+*.csv
+*.log
+*.db
+*.dat
+*.tmp
+
+# Ignore environment-related files
+*.env
+*.DS_Store
+
+# Ignore MacOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ignore Python egg files
+*.egg
+*.egg-info/
+.eggs/
+
+# Ignore backup files
+*.bak
+*.swp
+*.swo
+
+
+# Ignore specific files in the root of the repo
+*.tx_
+*.zip
+AqeelAzam_TabatabaeiAshkezari_final project report.pdf
