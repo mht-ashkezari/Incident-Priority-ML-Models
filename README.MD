@@ -3,6 +3,13 @@
 ## Introduction
 This project aims to develop a machine learning model for prioritizing IT support incidents. The models used are Random Forest and Gradient Boosting Machines (GBM), trained and evaluated on the 'Incident management process enriched event log' dataset. The goal is to predict the priority of incidents, even when critical features like 'impact' and 'urgency' are unavailable. This document provides instructions for running the project code in a Jupyter Notebook within Visual Studio Code (VSCode), using Conda as the Python interpreter.
 
+## Dataset
+
+The dataset used for this project is too large to be included in the repository. You can download it from [Google Drive](https://drive.google.com/file/d/1GbSwxXyRnevFH2WmIk3C0sT6a8x1fFd1/view?usp=sharing).
+
+Once downloaded, place the `incident_event_log.csv` file in the `ML_FinalPrj` folder.
+
+
 ## Prerequisites
 - Visual Studio Code must be installed along with the Jupyter extension.
 - A Conda environment should be set up and selected as the Python interpreter.
