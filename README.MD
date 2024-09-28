@@ -1,4 +1,4 @@
-# README for Incident Prioritization Using Machine Learning Models in Jupyter Notebook (VSCode)
+# Incident Prioritization Using Machine Learning Models in Jupyter Notebook (VSCode)
 
 ## Introduction
 This project aims to develop a machine learning model for prioritizing IT support incidents. The models used are Random Forest and Gradient Boosting Machines (GBM), trained and evaluated on the 'Incident management process enriched event log' dataset. The goal is to predict the priority of incidents, even when critical features like 'impact' and 'urgency' are unavailable. This document provides instructions for running the project code in a Jupyter Notebook within Visual Studio Code (VSCode), using Conda as the Python interpreter.
